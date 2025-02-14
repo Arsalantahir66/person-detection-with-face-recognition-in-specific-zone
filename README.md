@@ -1,5 +1,6 @@
 ## 🛠 Usage  
-
+### 🔹 Demo
+![Demo(demo1.gif)]
 ### 🔹 Python 3.8 or above 
 
 ### 🔹 Clone the Repository  
@@ -18,7 +19,7 @@ pip install dlib_whl/dlib-19.22.99-cp37-cp37m-win_amd64.whl
 
 ### 🔹 Installation  
 ```bash  
-pip install -r requirements.txt
+pip install -r requirement.txt
   
 ```
 
