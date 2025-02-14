@@ -1,6 +1,7 @@
 ## 🛠 Usage  
-### 🔹 Demo
-![Demo(demo1.gif)]
+## Video Demonstration
+![Aircraft Tracking Demo](demo1.gif)
+
 ### 🔹 Python 3.8 or above 
 
 ### 🔹 Clone the Repository  
